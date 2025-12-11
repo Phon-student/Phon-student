@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **robotics and AI engineering at KMITL**
 
-- 📄 Know about my experiences [https://resumette-phon-student.vercel.app/](https://resumette-phon-student.vercel.app/)
+- 📄 Know about my experiences [https://phon-resumette.vercel.app/](https://phon-resumette.vercel.app/)
 
 - ⚡ Fun fact **I was in language major in highschool**
 
